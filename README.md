@@ -38,4 +38,4 @@ Python · pandas · NumPy · SciPy · Matplotlib · PyTorch
 
 ## Author
 
-**Saikrishna Chilukuru** — Physics M.Sc., moving into data science. [GitHub profile](https://github.com/chilukuru-saikrishna)
+**Saikrishna Chilukuru**  
