@@ -18,8 +18,8 @@ An ensemble model that forecasts international football matches and simulates th
 | Step | Notebook | Status |
 | --- | --- | --- |
 | 1 | [Data exploration & cleaning](notebooks/01_data_exploration.ipynb) | ✅ Done |
-| 2 | Elo ratings from scratch | ⏳ Next |
-| 3 | Dixon-Coles Poisson model | ⬜ Planned |
+| 2 | [Elo ratings from scratch](notebooks/02_elo_ratings.ipynb) | ✅ Done |
+| 3 | [Dixon-Coles goals model](notebooks/03_dixon_coles.ipynb) | ⏳ Next |
 | 4 | Neural network (PyTorch) | ⬜ Planned |
 | 5 | Ensemble & evaluation against baselines | ⬜ Planned |
 | 6 | Monte Carlo tournament simulation | ⬜ Planned |
