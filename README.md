@@ -1,6 +1,6 @@
 # ⚽ World Cup Prediction — Ensemble Model
 
-> 🚧 **Work in progress.** Built step by step; each step is a notebook in [`notebooks/`](notebooks/).
+> 🚧 **Work in progress.** Built step by step; each step is a notebook in [https://github.com/chilukuru-saikrishna/world-cup-prediction/tree/main/notebooks](notebooks/).
 
 An ensemble model that forecasts international football matches and simulates the FIFA World Cup. It combines three different approaches, each with its own strengths, and runs the full tournament thousands of times with Monte Carlo simulation to estimate each team's chances.
 
