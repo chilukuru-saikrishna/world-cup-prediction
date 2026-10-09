@@ -13,7 +13,7 @@ An ensemble model that forecasts international football matches and simulates th
 | **Neural network (PyTorch)** | Non-linear patterns across features such as form, rating gaps and venue |
 | **Ensemble + Monte Carlo** | Combines the three, then simulates the tournament many times |
 
-## Progress
+## Details
 
 | Step | Notebook | Status |
 | --- | --- | --- |
